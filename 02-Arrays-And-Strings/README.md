@@ -1,19 +1,23 @@
-# Arrays and Strings
+# Arrays and Strings in Java
 
-This folder contains programs related to arrays and strings in Java.
+This section contains programs and practice exercises related to Arrays and Strings in Java.
 
-Topics Covered:
-- Array Declaration
-- Array Traversal
-- Multidimensional Arrays
-- String Methods
-- StringBuilder
-- String Manipulation
+Arrays and Strings form the foundation for problem-solving, Data Structures & Algorithms (DSA), and technical interview preparation.
 
-Status:
-- [ ] Array Basics
-- [ ] Array Traversal
-- [ ] Multidimensional Arrays
-- [ ] String Methods
-- [ ] StringBuilder
-- [ ] String Problems
+## Folder Structure
+
+```text
+02-Arrays-And-Strings
+│
+├── Arrays
+│   ├── README.md
+│   ├── ArrayDeclaration.java
+│   ├── ArrayInputOutput.java
+│   ├── ArrayTraversal.java
+│   ├── ...
+│
+└── Strings
+    ├── README.md
+    ├── StringDeclaration.java
+    ├── StringMethods.java
+    ├── ...
