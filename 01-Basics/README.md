@@ -80,16 +80,16 @@ After completing this section, I will be able to:
 
 ## Progress Tracker
 
-- [ ] Variables and Data Types
-- [ ] Operators
-- [ ] Type Casting
-- [ ] Input and Output
-- [ ] Conditional Statements
+- [x] Variables and Data Types
+- [x] Operators
+- [x] Type Casting
+- [x] Input and Output
+- [x] Conditional Statements
 - [ ] Switch Statements
-- [ ] Loops
+- [x] Loops
 - [ ] Methods
 - [ ] Method Overloading
-- [ ] Practice Programs
+- [x] Practice Programs
 
 ---
 
