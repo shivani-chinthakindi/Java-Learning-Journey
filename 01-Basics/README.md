@@ -1,7 +1,8 @@
 # Java Basics
 
-Topics Covered:
+This folder contains programs related to core Java fundamentals.
 
+Topics Covered:
 - Variables
 - Data Types
 - Operators
@@ -17,5 +18,7 @@ Status:
 - [ ] Variables
 - [ ] Data Types
 - [ ] Operators
+- [ ] Input/Output
+- [ ] Conditional Statements
 - [ ] Loops
 - [ ] Methods
