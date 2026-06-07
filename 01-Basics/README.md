@@ -16,6 +16,9 @@ These concepts form the foundation for learning Data Structures, Object-Oriented
 - Relational Operators
 - Logical Operators
 - Assignment Operators
+- Unary Operators
+- Ternary Operators
+- Bitwise Operators
 
 ### Type Casting
 - Implicit Type Casting
@@ -85,10 +88,10 @@ After completing this section, I will be able to:
 - [x] Type Casting
 - [x] Input and Output
 - [x] Conditional Statements
-- [ ] Switch Statements
+- [x] Switch Statements
 - [x] Loops
-- [ ] Methods
-- [ ] Method Overloading
+- [x] Methods
+- [x] Method Overloading
 - [x] Practice Programs
 
 ---
