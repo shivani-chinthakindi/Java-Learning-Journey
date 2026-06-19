@@ -1,1 +1,16 @@
+public class FindMaximumElement {
+    public static void main (String[] args) {
+        int[] arr = {22,58,29,19,39,44};
+        System.out.println(findMax(arr));
+    }
 
+    static int findMax (int[] arr){
+        int max = arr[0];
+        for (int i = 1; i < arr.length-1; i++) {
+            if(arr[i] > max){
+                max = arr[i];
+            }
+        }
+        return max;
+    }
+}
