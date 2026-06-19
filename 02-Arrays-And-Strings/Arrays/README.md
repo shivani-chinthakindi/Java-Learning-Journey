@@ -49,16 +49,16 @@ After completing these programs, I will be able to:
 
 ## Status
 
-- [ ] Array Declaration
-- [ ] Array Input & Output
-- [ ] Array Traversal
-- [ ] Maximum Element
-- [ ] Minimum Element
+- [x] Array Declaration
+- [x] Array Input & Output
+- [x] Array Traversal
+- [x] Maximum Element
+- [x] Minimum Element
 - [ ] Reverse Array
 - [ ] Swap Elements
 - [ ] Linear Search
 - [ ] Binary Search
-- [ ] Multidimensional Arrays
+- [x] Multidimensional Arrays
 - [ ] Practice Problems
 
 ---
