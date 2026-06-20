@@ -54,8 +54,8 @@ After completing these programs, I will be able to:
 - [x] Array Traversal
 - [x] Maximum Element
 - [x] Minimum Element
-- [ ] Reverse Array
-- [ ] Swap Elements
+- [x] Reverse Array
+- [x] Swap Elements
 - [ ] Linear Search
 - [ ] Binary Search
 - [x] Multidimensional Arrays
