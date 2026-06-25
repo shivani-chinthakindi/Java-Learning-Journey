@@ -57,9 +57,9 @@ After completing these programs, I will be able to:
 - [x] Reverse Array
 - [x] Swap Elements
 - [x] Linear Search
-- [ ] Binary Search
+- [x] Binary Search
 - [x] Multidimensional Arrays
-- [ ] Practice Problems
+- [x] Practice Problems
 
 ---
 
