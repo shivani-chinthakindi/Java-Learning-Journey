@@ -63,9 +63,9 @@ After completing these programs, I will be able to:
 
 ## Status
 
-- [ ] String Declaration
+- [x] String Declaration
 - [ ] String Methods
-- [ ] String Comparison
+- [x] String Comparison
 - [ ] String Concatenation
 - [ ] StringBuilder
 - [ ] Reverse String
