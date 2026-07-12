@@ -64,15 +64,15 @@ After completing these programs, I will be able to:
 ## Status
 
 - [x] String Declaration
-- [ ] String Methods
+- [x] String Methods
 - [x] String Comparison
-- [ ] String Concatenation
-- [ ] StringBuilder
+- [x] String Concatenation
+- [x] StringBuilder
 - [ ] Reverse String
 - [ ] Palindrome Check
 - [ ] Count Vowels
 - [ ] Character Frequency
-- [ ] Practice Problems
+- [x] Practice Problems
 
 ---
 
