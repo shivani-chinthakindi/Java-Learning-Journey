@@ -68,7 +68,7 @@ After completing these programs, I will be able to:
 - [x] String Comparison
 - [x] String Concatenation
 - [x] StringBuilder
-- [ ] Reverse String
+- [x] Reverse String
 - [ ] Palindrome Check
 - [ ] Count Vowels
 - [ ] Character Frequency
