@@ -69,9 +69,9 @@ After completing these programs, I will be able to:
 - [x] String Concatenation
 - [x] StringBuilder
 - [x] Reverse String
-- [ ] Palindrome Check
-- [ ] Count Vowels
-- [ ] Character Frequency
+- [x] Palindrome Check
+- [x] Vowel Counter
+- [x] Character Frequency
 - [x] Practice Problems
 
 ---
