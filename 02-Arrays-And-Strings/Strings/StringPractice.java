@@ -6,6 +6,6 @@ class StringPractice {
         System.out.println();
         System.out.printf("Pie: %.3f", Math.PI);
         System.out.println();
-        System.out.printf("Hello my name is %s and I am %s", "Shivani", "Cool");
+        System.out.printf("Hello my name is %s and I am %s", "Shivani", "a CSE Student");
     }
 }
