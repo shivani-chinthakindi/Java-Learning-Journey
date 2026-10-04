@@ -76,7 +76,7 @@ After completing these programs, I will be able to:
 
 ---
 
--[x] COMPLETED
+- [x] COMPLETED
 
 ---
 
